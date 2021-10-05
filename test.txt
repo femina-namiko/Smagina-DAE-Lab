@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 It is the new test file
 This is the second line in the new test file
+=======
+It is the new test file with one line
+I have just added the second line to the test file
+>>>>>>> 0563e5d378968f6908dcd98d90ce0887d2f7046a
