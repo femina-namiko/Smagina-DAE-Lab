@@ -1,1 +1,2 @@
-It is new test file
+It is the new test file
+This is the second line in the new test file
